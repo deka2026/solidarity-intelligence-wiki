@@ -7,6 +7,7 @@
 **작성일**: 2026-09-11  
 **난이도**: 보통  
 **소요 시간**: 인터뷰 약 90분 (질문 선별 시 60분)
+**한글 파일**: [tax-accountant-interview-questions.hwpx](../assets/tax-accountant-interview-questions.hwpx) — 번호·★·질문·답변 메모란 표 형식의 인쇄용
 
 ---
 
