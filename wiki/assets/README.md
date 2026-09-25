@@ -5,3 +5,4 @@
 - `energy-citizen-assembly-poster.svg` — 「제1회 모두의 에너지시민회의」 홍보 웹포스터 **재현본(reconstruction)**. 문서: [[energy-citizen-assembly]]. 출처: 공동주최 명지대학교 방목기초교육대학 외 5개 단체(2026-06-27). 원본 이미지 파일 확보 시 이 파일을 원본으로 교체.
 - `local-agency-foundation-change-procedure.hwpx` — [[local-agency-foundation-change-procedure]]의 한글(hwpx) 판. 마크다운 원문에서 python-hwpx로 자동 변환(2026-09-25). 원문을 고치면 다시 변환해야 함.
 - `jeonnam-gwangju-public-agencies-pre-merger.hwpx` — [[jeonnam-gwangju-public-agencies-pre-merger]]의 한글(hwpx) 판. 변환 방식은 위와 같음.
+- `jeonnam-gwangju-agencies-20240731.csv` — 전국 지방공공기관 목록(2024.7.31. 기준, 사용자 제공 CSV)에서 설립 자치단체가 광주광역시·전라남도인 45개 행만 뽑은 발췌본(UTF-8). 기관장명·연락처 열은 뺌. 문서: [[jeonnam-gwangju-public-agencies-pre-merger]].
