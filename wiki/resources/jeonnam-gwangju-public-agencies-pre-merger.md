@@ -119,6 +119,7 @@
 
 ## 관련 문서
 
+- 한글(hwpx) 판: `wiki/assets/jeonnam-gwangju-public-agencies-pre-merger.hwpx` (이 문서를 한글 파일로 변환한 것)
 - [[local-agency-foundation-change-procedure]]: 출연기관 목적·명칭·사업 변경 절차
 - [[idle-asset-solar-screening]]: 전남광주 유휴 국공유지 태양광 후보지 선별
 

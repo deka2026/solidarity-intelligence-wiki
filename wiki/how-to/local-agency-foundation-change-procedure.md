@@ -98,6 +98,7 @@
 
 ## 관련 문서
 
+- 한글(hwpx) 판: `wiki/assets/local-agency-foundation-change-procedure.hwpx` (이 문서를 한글 파일로 변환한 것)
 - [[idle-asset-solar-screening]]: 지자체에 정책 사업을 제안할 때 데이터를 근거로 쓰는 방법
 
 ## 참고 자료
